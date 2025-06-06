@@ -10,6 +10,14 @@
 
 <div align="center">
   <picture>
-    <!-- Add profile picture, GitHub stats, or icons here if needed -->
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=tusharra0&show_icons=true&theme=react&rank_icon=github"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=tusharra0&show_icons=true&hide_rank=true&rank_icon=github"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api?username=tusharra0&show_icons=true" />
   </picture>
 </div>
