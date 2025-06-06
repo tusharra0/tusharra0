@@ -9,15 +9,8 @@
 <br/>
 
 <div align="center">
-  <picture>
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=tusharra0&show_icons=true&theme=react&rank_icon=github"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=tusharra0&show_icons=true&hide_rank=true&rank_icon=github"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img src="https://github-readme-stats.vercel.app/api?username=tusharra0&show_icons=true" />
-  </picture>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=tusharra0&show_icons=true&title_color=66AE6F&icon_color=66AE6F&text_color=333333&bg_color=FFFFFF00&hide_border=true" 
+    alt="Tushar's GitHub stats" 
+  />
 </div>
