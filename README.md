@@ -1,16 +1,13 @@
-## Hi there 👋
+<h1 align="center">
+    <img src=["https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey!+👋;+I'm+Jonathan+Manuel!;"](https://readme-typing-svg.herokuapp.com/demo/?font=Oswald&weight=700&size=30&pause=50&color=66AE6F&vCenter=true&lines=Hey!%F0%9F%91%8B;I'm+Tushar+Rao!) />
+</h1>
 
-<!--
-**tusharra0/tusharra0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">A computer science student at the University of Toronto 🍁</h3>
 
-Here are some ideas to get you started:
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align=center>
+  <picture>
+  
+</picture>
+</div>
