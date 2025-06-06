@@ -7,25 +7,19 @@
 <h3 align="center">Computer Science @ University of Toronto | Aspiring Software Engineer 💻</h3>
 
 <br/>
-
 <div align="center">
   <picture>
-    <!-- Dark mode version -->
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=tusharra0&show_icons=true&title_color=66AE6F&icon_color=66AE6F&text_color=FFFFFF&bg_color=0D1117&rank_icon=github"
+      srcset="https://github-readme-stats.vercel.app/api?username=tusharra0&show_icons=true&rank_icon=github&title_color=66AE6F&icon_color=66AE6F&text_color=FFFFFF&bg_color=0D1117"
       media="(prefers-color-scheme: dark)"
     />
-    
-    <!-- Light mode + default version -->
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=tusharra0&show_icons=true&title_color=66AE6F&icon_color=66AE6F&text_color=333333&bg_color=FFFFFF&rank_icon=github"
+      srcset="https://github-readme-stats.vercel.app/api?username=tusharra0&show_icons=true&hide_rank=true&rank_icon=github&title_color=66AE6F&icon_color=66AE6F&text_color=333333&bg_color=FFFFFF"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-
-    <!-- Fallback image if no media match -->
-    <img 
-      src="https://github-readme-stats.vercel.app/api?username=tusharra0&show_icons=true&title_color=66AE6F&icon_color=66AE6F&text_color=333333&bg_color=FFFFFF&rank_icon=github" 
-      alt="Tushar's GitHub Stats"
+    <img
+      src="https://github-readme-stats.vercel.app/api?username=tusharra0&show_icons=true&title_color=66AE6F&icon_color=66AE6F"
+      alt="Tushar's GitHub stats"
     />
   </picture>
 </div>
