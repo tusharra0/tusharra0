@@ -1,34 +1,25 @@
 <h1 align="center">Tushar Rao</h1>
 
 <p align="center">
-Third-Year Computer Science Student @ University of Toronto
+Third-Year Computer Science Student at the University of Toronto
 </p>
 
 <p align="center">
-Incoming Software Development Engineer Intern @ Amazon
+Incoming Software Development Engineer Intern at Amazon
 </p>
 
 ---
 
 ### About
 
-I’m a computer science student interested in building real-world software and AI-driven products.
+I’m a computer science student interested in backend systems and building real products with AI.
 
-Currently focused on:
-- algorithms and systems design
-- machine learning applications
-- building startup-style projects
+My work focuses on designing reliable systems, building full-stack applications, and exploring practical uses of AI in software.
 
 ---
 
-### Tech
+### Current Work
 
-Python • Java • TypeScript • React • FastAPI • PostgreSQL
-
----
-
-### What I'm Working On
-
-- AI-powered tools and automation
-- full-stack software projects
-- improving problem solving through algorithms
+• backend systems and APIs  
+• AI-powered applications and tools  
+• improving problem solving through algorithms
