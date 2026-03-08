@@ -1,36 +1,34 @@
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hey!+👋;+I'm+Tushar+Rao!;" />
-</h1>
+<h1 align="center">Tushar Rao</h1>
 
-<h3 align="center">Third-Year Computer Science Student at the University of Toronto 🍁</h3>
+<p align="center">
+Third-Year Computer Science Student @ University of Toronto
+</p>
 
-<br/>
+<p align="center">
+Incoming Software Development Engineer Intern @ Amazon
+</p>
 
-<div align="center">
+---
 
-💻 Passionate about **software engineering, AI, and building real-world products**
+### About
 
-🚀 Incoming **Software Development Engineer Intern @ Amazon**
+I’m a computer science student interested in building real-world software and AI-driven products.
 
-🧠 Interested in **machine learning, distributed systems, and scalable software**
+Currently focused on:
+- algorithms and systems design
+- machine learning applications
+- building startup-style projects
 
-🛠 Currently building **AI-powered tools and startup projects**
+---
 
-📈 Always learning **algorithms, system design, and advanced computer science concepts**
+### Tech
 
-</div>
+Python • Java • TypeScript • React • FastAPI • PostgreSQL
 
-<br/>
+---
 
-<div align="center">
-  <picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=tusharra0&show_icons=true&theme=react&rank_icon=github"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=tusharra0&show_icons=true&hide_rank=true&rank_icon=github"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-</picture>
-</div>
+### What I'm Working On
+
+- AI-powered tools and automation
+- full-stack software projects
+- improving problem solving through algorithms
