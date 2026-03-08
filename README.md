@@ -1,25 +1,21 @@
-<h1 align="center">Tushar Rao</h1>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey+There!+👋;+I'm+Tushar+Rao!;" />
+</h1>
 
-<p align="center">
-Third-Year Computer Science Student at the University of Toronto
-</p>
+<h3 align="center">Third-Year Computer Science Student at the University of Toronto</h3>
 
-<p align="center">
+<br/>
+
+<div align="center">
+
+Passionate about software engineering and building real-world products
+
 Incoming Software Development Engineer Intern at Amazon
-</p>
 
----
+Interested in backend systems and practical applications of AI
 
-### About
+Currently building AI-powered tools and startup projects
 
-I’m a computer science student interested in backend systems and building real products with AI.
+Always learning algorithms and system design
 
-My work focuses on designing reliable systems, building full-stack applications, and exploring practical uses of AI in software.
-
----
-
-### Current Work
-
-• backend systems and APIs  
-• AI-powered applications and tools  
-• improving problem solving through algorithms
+</div>
