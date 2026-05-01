@@ -3,7 +3,7 @@
 <br/>
 
 ### <p align="center">Tushar Rao</p>
-<p align="center">cs @ university of toronto &nbsp;·&nbsp; incoming sde intern @ amazon</p>
+<p align="center">cs @ university of toronto &nbsp;·&nbsp; sde intern @ amazon</p>
 
 <br/>
 <br/>
